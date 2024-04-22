@@ -1,0 +1,49 @@
+.product-card{
+    background-color:pink;
+    box-shadow: 4px 4px 3px rgb(103, 102, 102);
+
+}
+
+.product-btn{
+    padding: 10px 20px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: orange;
+    text-transform: uppercase;
+    color: white;
+}
+
+.product-buy{
+    padding: 10px 20px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: rgb(255, 109, 12);
+    text-transform: uppercase;
+    color: white;
+}
+
+.image-design{
+    cursor: pointer;
+    transition: 1s;
+}
+
+.image-design:hover{
+    filter: brightness();
+    transform: scale(1.03);
+}
+
+.ourproduct-btn{
+    font-weight: 700;
+    color:black;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 60px;
+    border: 2px solid palevioletred;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: pink;
+    box-shadow: 5px 5px;
+    
+}

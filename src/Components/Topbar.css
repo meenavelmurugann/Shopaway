@@ -1,0 +1,145 @@
+.btn-search{
+    box-shadow: 3px 3px;
+    font-size: 15px;
+}
+.cart-btn{
+    box-shadow: 2px 2px;
+}
+.log-btn{
+    box-shadow: 3px 3px;
+    font-weight: 300;
+    font-size: 15px;
+    
+}
+.brand{
+   font-weight: 900
+
+}
+
+
+
+.body{
+    background-color:palevioletred ;
+    border-radius: 5px;
+    width: 700px;
+    height: 300px;
+    
+    
+}
+.close{
+    background-color: palevioletred;
+    height: 10px;
+
+}
+.sign-btn{
+    background-color:palevioletred ;
+}
+.body-1{
+    background-color: palevioletred;
+    
+}
+
+
+
+.container-1{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    padding-bottom: 10px;
+    background-color: lightpink;
+    
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+
+}
+.text{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+.underline{
+    width: 150px;
+    height: 3px;
+    background-color: black;
+    border-radius: 3px;
+}
+.inputs{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  
+}
+.input-1{
+    border: 2px solid palevioletred;
+    padding: 10px;
+    margin: 100px;
+    background-color: palevioletred;
+    border-style: outset;
+    border-radius: 10px;
+}
+.input-2{
+    border: 2px solid palevioletred;
+    padding: 10px;
+    margin: 100px;  
+    background-color: palevioletred; 
+    border-radius: 10px;
+    border-style: outset;
+}
+
+.input-3{
+    border: 2px solid palevioletred;
+    padding: 10px;
+    margin: 100px;
+    background-color: palevioletred;
+    border-radius: 10px;
+    border-style: outset;
+  
+}
+
+
+.input input{
+    border: none;
+    background: transparent;
+    outline: none;
+    font-size: 19px;
+  
+}
+.forget-password{
+    color: black;
+    font-size: 20px;
+}
+.forget-password span{
+    cursor: pointer;
+    color: palevioletred;
+}
+.Submit-container{
+ 
+}
+.Submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    width: 150px;
+    height: 50px;
+    border: 3px solid palevioletred;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700px;
+    cursor: pointer;
+    background-color: palevioletred;
+    margin: 15px;
+
+}
+.gray{
+    background: pink;
+    color: black;
+}

@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+.cart-btn{
+    background-color: palevioletred;
+    border: 3px solid palevioletred ;
+    border-radius: 10px;
+    padding: 5px 10px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.log-btn{
+    background-color: palevioletred;
+    border: 3px solid palevioletred ;
+    border-radius: 10px;
+    padding: 5px 15px;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.proceed-btn{
+    background-color: hotpink;
+    color: black;
+    padding: 10px 40px;
+    border: 2px solid hotpink;
+    border-radius: 5px;
+    box-shadow: 2px 2px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.btn-search{
+    background-color:palevioletred;
+    color: black;
+    padding: 5px 20px;
+    border: 2px solid palevioletred;
+    border-radius: 5px;
 }
-
-.App-link {
-  color: #61dafb;
+.login-btn{
+    background-color: palevioletred;
+    border: 3px solid palevioletred ;
+    border-radius: 10px;
+    padding: 5px 25px;
+   
 }
+.heading{
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: 2px;
+   
+}
+.card-title{
+    color: palevioletred;
+    font-size: 30px;
+    font-weight: 800
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
